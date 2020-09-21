@@ -1,6 +1,6 @@
 ## Image Classification using various Machine Learning Techniques:
 
-#This page is a placeholder for when I finally get to writing the report for this project  :P
+# This page is a placeholder for when I finally get to writing the report for this project  :P
 
 You can use the [editor on GitHub](https://github.com/hastarai/image-classification-project/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
